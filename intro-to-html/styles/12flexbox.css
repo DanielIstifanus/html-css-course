@@ -1,0 +1,92 @@
+div,
+p {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  border-style: solid;
+  border-color: rgb(203, 203, 203);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 5px;
+  border-width: 1px;
+}
+
+.flex-box {
+  display: flex;
+  align-items: center;
+}
+
+.profile-picture {
+  width: 50px;
+  object-fit: contain;
+  border-radius: 100%;
+}
+
+.text-block {
+  font-family: Arial;
+  padding: 8px;
+  flex: 1;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.animal {
+  font-size: 15px;
+  color: rgb(96, 96, 96);
+}
+
+.status {
+  font-size: 13px;
+  color: rgb(96, 96, 96);
+}
+.follow-button {
+  background-color: rgb(24, 119, 242);
+  color: white;
+  border: none;
+  padding: 6px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 60px;
+  align-items: end;
+  font-weight: bold;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: rgb(108, 50, 156);
+  font-family: Arial;
+  color: white;
+  font-weight: bold;
+}
+
+.home {
+  width: 150px;
+}
+
+.search {
+  flex: 1;
+  padding: 5px 20px 5px 20px;
+  max-width: 500px;
+  border-radius: 15px;
+  border: none;
+}
+
+.download-box {
+  width: 150px;
+  display: flex;
+  justify-content: end;
+}
+.download {
+  background-color: rgb(108, 50, 156);
+  color: white;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  padding: 5px 10px 5px 10px;
+}

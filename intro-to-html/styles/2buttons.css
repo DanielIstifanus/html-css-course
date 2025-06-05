@@ -1,0 +1,139 @@
+.subscribe-button {
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 105px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.join-button {
+  background-color: white;
+  color: rgb(56, 136, 255);
+  border-color: rgb(56, 136, 255);
+  border-radius: 2px;
+  height: 36px;
+  width: 80px;
+  border-style: solid;
+  border-width: 1px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.tweet-button {
+  background-color: rgb(56, 136, 255);
+  color: white;
+  border-radius: 18px;
+  border: none;
+  height: 36px;
+  width: 80px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.request-button {
+  background-color: black;
+  color: white;
+  border: none;
+  height: 30px;
+  width: 120px;
+  cursor: pointer;
+}
+
+.add-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  height: 30px;
+  border: none;
+  border-radius: 18px;
+  width: 150px;
+  cursor: pointer;
+}
+
+.sign-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 10px;
+  height: 30px;
+  width: 66px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.get-button {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  border-radius: 2px;
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+}
+
+.download-button {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-color: rgb(108, 117, 125);
+  border-radius: 2px;
+  height: 30px;
+  border-style: solid;
+  border-width: 1px;
+  font-weight: bold;
+  width: 120px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.apply-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  height: 30px;
+  border-radius: 15px;
+  border: none;
+  font-weight: bold;
+  width: 200px;
+  cursor: pointer;
+}
+
+.save-button {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-color: rgb(10, 102, 194);
+  height: 30px;
+  font-weight: bold;
+  border-style: solid;
+  border-radius: 15px;
+  width: 66px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.back {
+  color: rgb(0, 166, 255);
+}
+
+.nike {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.price {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+
+.buy {
+  background-color: rgb(255, 164, 28);
+  color: black;
+  height: 30px;
+  border-radius: 15px;
+  border: none;
+  width: 150px;
+  cursor: pointer;
+}

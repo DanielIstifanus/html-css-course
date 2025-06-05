@@ -1,0 +1,196 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial;
+}
+div {
+  margin: 0;
+  padding: 0;
+}
+
+.partA {
+  display: block;
+  border: solid;
+  margin-bottom: 50px;
+}
+
+.insta-follow {
+  vertical-align: middle;
+}
+
+.insta-image {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.profile-picture {
+  border-radius: 100%;
+  margin-right: 12px;
+}
+
+.insta-title {
+  display: inline-block;
+  width: 250px;
+  vertical-align: middle;
+}
+
+.insta-name {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 4px;
+}
+
+.insta-specie {
+  font-family: Arial;
+  font-size: 18px;
+  color: rgb(96, 96, 96);
+  padding-bottom: 4px;
+}
+
+.status {
+  font-family: Arial;
+  font-size: 16px;
+  color: rgb(96, 96, 96);
+}
+
+.insta-button {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.follow-button {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 18px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  background-color: rgb(31, 121, 247);
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.partB {
+  display: block;
+  border: solid;
+  margin-bottom: 50px;
+}
+.partBi {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.youtube-content {
+  width: 200px;
+}
+
+.youtube-picture {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+}
+
+.youtube-text {
+  width: 230px;
+  display: inline-block;
+  vertical-align: top;
+  line-height: 22px;
+}
+
+.youtube-title {
+  font-weight: bold;
+}
+
+.youtube-author {
+  color: rgb(96, 96, 96);
+  font-size: 15px;
+}
+
+.youtube-stats {
+  color: rgb(96, 96, 96);
+  font-size: 15px;
+}
+
+.video-block {
+  display: block;
+  margin-bottom: 12px;
+}
+
+.partC {
+  display: block;
+  border: solid;
+  margin-bottom: 50px;
+  padding-top: 10px;
+  padding-left: 5px;
+}
+
+.fb-block {
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-right: 20px;
+  width: 200px;
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.fb-image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+
+.fb-textblock {
+  padding: 8px;
+}
+
+.fb-name {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+
+.fb-dp {
+  border-radius: 100%;
+  width: 35px;
+  margin-right: 5px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.fb-friendCount {
+  font-family: Arial;
+  font-size: 15px;
+  color: rgb(96, 96, 96);
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.fb-buttonblock {
+  display: block;
+  margin-top: 10px;
+}
+
+.fb-button {
+  font-family: Arial;
+  font-size: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+  background-color: rgb(31, 121, 247);
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.partD {
+  display: block;
+  border: solid;
+  margin-bottom: 50px;
+}

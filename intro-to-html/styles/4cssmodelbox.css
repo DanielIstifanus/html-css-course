@@ -1,0 +1,137 @@
+.subscribe-button {
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: opacity 0.15s;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  vertical-align: top;
+}
+
+.subscribe-button:hover {
+  opacity: 0.8;
+}
+
+.subscribe-button:active {
+  opacity: 0.5;
+}
+
+.join-button {
+  background-color: white;
+  color: rgb(56, 136, 255);
+  border-color: rgb(56, 136, 255);
+  border-radius: 2px;
+  border-style: solid;
+  border-width: 1px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: color 0.15s, background-color 0.15s;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  vertical-align: top;
+}
+
+.join-button:hover {
+  background-color: rgb(56, 136, 255);
+  color: white;
+}
+
+.join-button:active {
+  opacity: 0.7;
+}
+
+.tweet-button {
+  background-color: rgb(56, 136, 255);
+  color: white;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  transition: box-shadow 0.15s;
+  vertical-align: top;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.tweet-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 1);
+}
+
+.hbutton {
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.hpage {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.stretch {
+  background-color: green;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  cursor: pointer;
+  transition: padding-left 1s, padding-right 1s, padding-top 1s,
+    padding-bottom 1s;
+}
+
+.stretch:hover {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.shadow {
+  background-color: green;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  cursor: pointer;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  transition: margin-left 0.3s, margin-top 0.3s, box-shadow 0.3s;
+}
+
+.shadow:active {
+  margin-left: 5px;
+  margin-top: 5px;
+  box-shadow: none;
+}
+
+.one {
+  background-color: green;
+  color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border: none;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-size: 18px;
+  transition: margin 0.15s, padding 0.15s;
+}
+
+.one:hover {
+  padding-right: 25px;
+  padding-left: 25px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
